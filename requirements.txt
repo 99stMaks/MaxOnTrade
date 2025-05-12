@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+telebot
+joblib
+mplfinance
+matplotlib
+scikit-learn
+websocket-client
